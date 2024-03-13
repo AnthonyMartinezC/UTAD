@@ -1,0 +1,7 @@
+Hemos comprendido ya como realizar el push.
+
+Este repositorio fue creado desde el repositorio local , por lo que tuvimos que configurar la comunicación 
+remoto-local de forma manual.
+
+
+Usamos git push -u origin master.
